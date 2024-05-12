@@ -1,4 +1,4 @@
-![image](https://github.com/Bharath745/malaria-cell-recognition/assets/94508354/e5e5c8e0-4da6-4c96-96cf-4fbb4ea5fed4)# Deep Neural Network for Malaria Infected Cell Recognition
+# Deep Neural Network for Malaria Infected Cell Recognition
 
 ## AIM
 
